@@ -1,0 +1,26 @@
+C:\projects QtCreator\TestAndroid\android-build\bin\classes.dex : \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\BuildConfig.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\R$array.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\R$attr.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\R$layout.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\R$string.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\example\TestAndroid\R.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$1.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$2.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1$1.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3$1.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$3.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$4.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$5.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity$6.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtActivity.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication$InvokeResult.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\classes\org\qtproject\qt5\android\bindings\QtApplication.class \
+C:\projects QtCreator\TestAndroid\android-build\bin\dexedLibs\QtAndroid-bundled-bdf9c2f11e21e86b19846fc1034ddee9.jar \
+C:\projects QtCreator\TestAndroid\android-build\bin\dexedLibs\QtAndroidAccessibility-bundled-2ab2714d42dfb5ffb26f2d955b7c0c05.jar \
